@@ -45,3 +45,15 @@ get and delete doesn't have body
 
 array with structures
 *********************
+
+Gin framework
+***************
+MVC-design pattern
+helps to manage project in effective managable manner
+m -stands for model
+v -stands for view
+c -stands for controller
+
+controller acting as a layer to communicate with business
+
+
